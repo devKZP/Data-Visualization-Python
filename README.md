@@ -1,4 +1,3 @@
-- Files: EM622 (Data visulization using python) - .py file and .png
-- Purpose: STEVENS INSTITUTE OF TECHNOLOGY - EM622 Data Visualization - Final Project.
+- Purpose: STEVENS INSTITUTE OF TECHNOLOGY, Masters Program - EM622 Data Visualization - Final Project.
 - Assignment: Create a main overview with 3 branch outs in python using a rich data set (multi-variate).
 - Excludes: Branch-out visualizaitons.
