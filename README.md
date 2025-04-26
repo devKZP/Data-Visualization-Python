@@ -1,4 +1,4 @@
-- Purpose: Masters Degree Data Visualization Final Project
-- Class: EM622 Data Visualization
-- Assignment Instructions: Create a main overview with 3 branch outs in python using a rich data set (multi-variate).
-- Excludes: Branch-out visualizaitons.
+- **Purpose**: Masters Degree Data Visualization Final Project
+- **Class**: EM622 Data Visualization
+- **Assignment** Instructions: Create a main overview with 3 branch outs in python using a rich data set (multi-variate).
+- **Excludes**: Branch-out visualizaitons.
