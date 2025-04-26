@@ -1,5 +1,5 @@
 - **Purpose**: Masters Degree Data Visualization Final Project
 - **Class**: EM622 Data Visualization
 - **Assignment** Instructions: Create a main overview with 3 branch outs in python using a rich data set (multi-variate).
-- ** Data Set:**: Maryland Collisions: https://opendata.maryland.gov/stories/s/Maryland-Crash-Data-Resources/ggbs-m2rv/
+- **Data**: Maryland Collisions: https://opendata.maryland.gov/stories/s/Maryland-Crash-Data-Resources/ggbs-m2rv/
 - **Excludes**: Branch-out visualizaitons.
